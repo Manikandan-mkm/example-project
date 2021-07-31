@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(179, 179, 179);
+}
+
+.wrapper{
+    top: auto;
+    margin: 200px;
+    width: 390px;
+    height: 1400px;
+    background-color:  rgb(255, 255, 255);
+}
+
+.btn{
+    float:right;
+    font-size: 10px;
+}
+.b1{
+    margin: 5px;
+    padding: 5px;
+    color: rgb(250, 245, 245);
+    
+}
+.text{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 8px;
+}
+.btnn{
+    text-align: center;
+    font-size: 9px;
+}
+.row{
+    padding: 10px;
+} 
+.container{
+    background-color: rgb(201, 192, 192);
+    height: 210px;
+}
+
+
+.container2{
+    background-color: rgb(209, 202, 202);
+    height: 250px;
+
+}
+
+.text1{
+    text-align: justify;
+    font-size: 6px;
+    font-weight: bold;
+}
+
+.text2{
+    text-align: justify;
+    font-size: 6px;
+}
+.btnn1{
+    font-size: 9px;
+
+}
+.text3{
+    font-size: 13px; 
+}
+.btnn2{
+    font-size: 7px;
+    color: black;
+
+}
+
+.box{
+    padding-top:4%;
+    position: relative;
+    margin: auto;
+    padding: 10px;
+    width: 300px;
+    height: 190px;
+    background-color: rgb(246, 246, 252);
+}
+.box1{
+    position: relative;
+    margin:200px;
+    padding: 10px;
+    width: 300px;
+    height: 190px;
+    background-color: rgb(246, 246, 252);
+}
+
+.box2{
+    float: left;
+    padding-top:4%;
+    position: relative;
+    margin:200px;
+    padding: 10px;
+    width: 300px;
+    height: 190px;
+    background-color: rgb(246, 246, 252);
+}
